@@ -10,7 +10,7 @@ export default class ErrorRepository {
             this.errors.set(numericCode, description);
         } catch (error) {
             const newError = error;
-            // console.log(newError)
+            console.log(newError)
                 }
     }
  }
