@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jex26rxd0e5ybjms?svg=true)](https://ci.appveyor.com/project/holllygun/async-await)
