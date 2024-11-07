@@ -41,5 +41,5 @@ export default class Team {
         for (const member of this.members) {
             yield member;
         }
-      };    
+      }    
 }
